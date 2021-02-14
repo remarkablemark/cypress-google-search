@@ -15,6 +15,12 @@ git clone https://github.com/remarkablemark/cypress-google-search.git
 cd cypress-google-search
 ```
 
+Install dependencies:
+
+```sh
+npm install
+```
+
 ## Run
 
 Open Cypress:
