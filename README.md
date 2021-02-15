@@ -1,6 +1,6 @@
 # cypress-google-search
 
-Demo of using [Cypress](https://b.remarkabl.org/cypress) end-to-end (E2E) test runner to perform a [Google](https://www.google.com/) search. See [YouTube video](https://b.remarkabl.org/3b7vq1Q).
+Demo of using [Cypress](https://b.remarkabl.org/cypress) end-to-end (E2E) test runner to perform a [Google](https://www.google.com/) search. See [blog post](https://b.remarkabl.org/3doyeL9) or [YouTube video](https://b.remarkabl.org/3b7vq1Q).
 
 ## Prerequisites
 
