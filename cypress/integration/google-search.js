@@ -1,6 +1,6 @@
 describe("Google Search", () => {
   it("loads search page", () => {
-    cy.visit("https://google.com");
+    cy.visit("https://www.google.com");
   });
 
   it("search for `remarkablemark`", () => {
