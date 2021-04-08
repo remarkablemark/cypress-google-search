@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:chrome": "cypress run --browser chrome --headless"
+  },
   "devDependencies": {
     "cypress": "^7.0.1"
   }
