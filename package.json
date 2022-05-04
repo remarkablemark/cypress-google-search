@@ -6,5 +6,8 @@
   },
   "devDependencies": {
     "cypress": "^7.0.1"
+  },
+  "dependencies": {
+    "cypress-cucumber-preprocessor": "4.3.1"
   }
 }
